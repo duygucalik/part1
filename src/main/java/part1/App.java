@@ -5,7 +5,6 @@ package part1;
 
 import java.util.ArrayList;
 
-import static spark.Spark.get;
 
 
 public class App {
